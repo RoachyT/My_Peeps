@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\My_Peeps\myPeeps\myPeeps\bin\Debug\myPeeps.exe.config
+C:\Users\rtoles\Desktop\My_Peeps\myPeeps\myPeeps\bin\Debug\myPeeps.exe
+C:\Users\rtoles\Desktop\My_Peeps\myPeeps\myPeeps\bin\Debug\myPeeps.pdb
+C:\Users\rtoles\Desktop\My_Peeps\myPeeps\myPeeps\obj\Debug\myPeeps.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\My_Peeps\myPeeps\myPeeps\obj\Debug\myPeeps.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\My_Peeps\myPeeps\myPeeps\obj\Debug\myPeeps.exe
+C:\Users\rtoles\Desktop\My_Peeps\myPeeps\myPeeps\obj\Debug\myPeeps.pdb
